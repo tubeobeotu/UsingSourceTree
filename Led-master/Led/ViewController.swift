@@ -35,6 +35,8 @@ class ViewController: UIViewController {
     var right : Bool = true
     var n = 0;
     
+    
+    //commit 1
     override func viewDidLoad() {
         super.viewDidLoad()
         hienthi_run.isEnabled = false

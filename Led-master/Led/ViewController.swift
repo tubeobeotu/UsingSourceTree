@@ -37,6 +37,8 @@ class ViewController: UIViewController {
     
     
     //commit 1
+    //commit 2
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         hienthi_run.isEnabled = false
